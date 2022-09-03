@@ -1,0 +1,43 @@
+#titulo{
+    color: red;
+    text-align: center;
+    margin: -5px;
+    border: 5px solid crimson;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    -webkit-text-stroke: 2px wheat;
+}
+.sub{
+    color: blanchedalmond;
+    background-color: rgb(168, 19, 49);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;    
+}
+
+#Bloque_A{
+    margin: 50px;
+    border: 5px solid crimson;
+    margin-right: 40%;
+    font-size: 14px;
+    color: rgb(255, 255, 255);
+    font-style: italic;
+    
+}
+#Bloque_B{
+
+    margin: 5px;
+    border: 5px solid crimson;
+    margin-right: 40%;
+    position: absolute;
+    left: 62%;
+    top: 6%;
+}
+#img{
+    width: 400px;
+    right: 400px;
+    }
+body{
+    background-color: black;
+}
+#info{
+    font-family:'Times New Roman', Times, serif
+}
